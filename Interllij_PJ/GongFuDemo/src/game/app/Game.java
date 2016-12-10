@@ -95,7 +95,7 @@ public class Game {
         System.out.println("****** 开始游戏：金庸群侠传 *******");
         System.out.println("1.令狐冲       2.欧阳锋");
         System.out.print("请选择：");
-        choice=in.nextInt();1
+        choice=in.nextInt();
 
     }
 
